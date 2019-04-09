@@ -1,5 +1,5 @@
 {
-	"HomeId": 1,
+	"UserId": 1,
 	"UnitId": 1,
 	"Name": "Temperature Sensor One",
 	"Interval": 600
